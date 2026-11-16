@@ -1,0 +1,21 @@
+# Go
+/api/bin/
+*.db
+# Python
+__pycache__/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Node / Angular
+node_modules/
+/web/dist/
+/web/.angular/
+# .NET
+bin/
+obj/
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
